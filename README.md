@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanbagues&label=Profile%20views&color=0e75b6&style=flat" alt="tuanbagues" /> </p>
 
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuanbagues" alt="tuanbagues" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tuanbagues" target="blank"><img src="https://img.shields.io/twitter/follow/tuanbagues?logo=twitter&style=for-the-badge" alt="tuanbagues" /></a> </p>
@@ -27,6 +30,11 @@
 - 📄 Know about my experiences [https://www.tuanbagues.web.id](https://www.tuanbagues.web.id)
 
 - ⚡ Fun fact **I think I am Funny**
+
+## Support Me via Paypal
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=mmsicompany)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
