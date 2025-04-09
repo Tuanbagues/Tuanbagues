@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuanbagues" alt="tuanbagues" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/47270480?v=4"><img src="https://github.com/tuanbagues" alt="tuanbagues" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tuanbagues" target="blank"><img src="https://img.shields.io/twitter/follow/tuanbagues?logo=twitter&style=for-the-badge" alt="tuanbagues" /></a> </p>
 
